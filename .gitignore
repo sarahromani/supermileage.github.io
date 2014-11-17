@@ -1,0 +1,11 @@
+# Grunt
+dist/
+
+# npm
+node_modules/
+
+# Bower
+bower_components/
+
+# vim
+*.swp
