@@ -39,6 +39,14 @@ module.exports = function(grunt) {
         }
       }
     },
+    connect: {
+      server: {
+        options: {
+          hostname: 'localhost',
+          port: 8000
+        }
+      }
+    },
     watch: {
       less: {
         files: ['style.less'],
@@ -48,13 +56,14 @@ module.exports = function(grunt) {
   });
 
   grunt.loadNpmTasks('grunt-contrib-clean');
+  grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-less');
   grunt.loadNpmTasks('grunt-contrib-watch');
 
   grunt.registerTask(
     'default',
-    ['clean:dist', 'copy', 'less:dev', 'watch']
+    ['clean:dist', 'copy', 'less:dev', 'connect', 'watch']
   );
   grunt.registerTask(
     'build',
