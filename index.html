@@ -13,9 +13,21 @@
   </head>
   <body>
     <div class="container-fluid content">
+      <h1>
+        Michael Thiesen
+      </h1>
       <div class="row">
-        <div class="col-md-12">
-          <p>hi</p>
+        <div class="col-xs-3">
+          <ul class="nav nav-stacked">
+            <li class="active"><a href="#about" aria-controls="about" role="tab" data-toggle="tab">about</a></li>
+            <li><a href="#links" aria-controls="links" role="tab" data-toggle="tab">links</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-9">
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="about">about</div>
+            <div role="tabpanel" class="tab-pane" id="links">links</div>
+          </div>
         </div>
       </div>
     </div>
