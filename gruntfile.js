@@ -54,7 +54,7 @@ module.exports = function(grunt) {
     watch: {
       less: {
         files: ['style.less'],
-        tasks: ['less:dev']
+        tasks: ['less:dev', 'jekyll']
       },
       jekyll: {
         files: [

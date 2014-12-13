@@ -15,7 +15,23 @@
 
 @gray-base: #181818;
 
-.content {
-  max-width: 1000px;
-  padding: 50px;
+@link-color: #2F5D7C;
+@link-hover-color: lighten(@link-color, 10%);
+
+body {
+  min-width: 450px;
+}
+
+div.maxwidth {
+  max-width: 800px;
+}
+
+#navigation {
+  background-color: @text-color;
+  color: lighten(#fff - @text-color, 15%);
+
+  padding: 20px;
+  ul {
+    margin-bottom: 0px;
+  }
 }
