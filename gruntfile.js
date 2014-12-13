@@ -39,9 +39,14 @@ module.exports = function(grunt) {
         }
       }
     },
+    jekyll: {
+      options: {
+      }
+    },
     connect: {
       server: {
         options: {
+          base: ['_site', '.'],
           hostname: 'localhost',
           port: 8000
         }
@@ -51,6 +56,17 @@ module.exports = function(grunt) {
       less: {
         files: ['style.less'],
         tasks: ['less:dev']
+      },
+      jekyll: {
+        files: [
+          '_config.yml',
+          '_drafts/*.*',
+          '_includes/*.*',
+          '_layouts/*.*',
+          '_posts/*.*',
+          '_data/*.*',
+        ],
+        tasks: ['jekyll']
       }
     }
   });
@@ -60,6 +76,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-less');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-jekyll');
 
   grunt.registerTask(
     'default',
