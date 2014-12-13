@@ -1,0 +1,9 @@
+exclude: [
+  "bower.json",
+  "CNAME",
+  "gruntfile.js",
+  "package.json",
+  "style.less",
+  "bower_components",
+  "node_modules"
+]

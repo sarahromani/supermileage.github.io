@@ -40,13 +40,12 @@ module.exports = function(grunt) {
       }
     },
     jekyll: {
-      options: {
-      }
+      build: {}
     },
     connect: {
       server: {
         options: {
-          base: ['_site', '.'],
+          base: ['_site'],
           hostname: 'localhost',
           port: 8000
         }
@@ -59,6 +58,7 @@ module.exports = function(grunt) {
       },
       jekyll: {
         files: [
+          '*.html',
           '_config.yml',
           '_drafts/*.*',
           '_includes/*.*',
@@ -80,7 +80,7 @@ module.exports = function(grunt) {
 
   grunt.registerTask(
     'default',
-    ['clean:dist', 'copy', 'less:dev', 'connect', 'watch']
+    ['clean:dist', 'copy', 'less:dev', 'jekyll', 'connect', 'watch']
   );
   grunt.registerTask(
     'build',
