@@ -20,7 +20,7 @@ layout: default
     {% endif %}
     {% if paginator.previous_page %}
       <li class="next">
-        <a href="{{ paginator.previous_page_path }}">Newer</a>
+        <a href="{{ paginator.previous_page_path | remove:'index.html' }}">Newer</a>
       </li>
     {% endif %}
   </ul>
