@@ -40,6 +40,10 @@ module.exports = function(grunt) {
       }
     },
     jekyll: {
+      options: {
+        drafts: true,
+        future: true
+      },
       build: {}
     },
     connect: {

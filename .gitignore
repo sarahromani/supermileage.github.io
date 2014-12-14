@@ -7,6 +7,9 @@ node_modules/
 # Bower
 bower_components/
 
+# bundler
+Gemfile.lock
+
 # jekyll
 _site/
 
