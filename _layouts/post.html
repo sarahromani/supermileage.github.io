@@ -4,7 +4,7 @@ layout: default
 
 <article>
   <div class="post">
-    <p class="text-muted">{{ page.date | date: "%-d %B, %Y" }}</p>
+    <p class="text-muted">{{ page.date | date: site.dateformat }}</p>
     {{ content }}
   </div>
 </article>

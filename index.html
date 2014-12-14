@@ -5,9 +5,9 @@ layout: default
 {% for post in paginator.posts %}
   <div class="post-preview">
     <h4>{{ post.title }}</h4>
-    <p class="text-muted">{{ post.date | date: "%-d %B, %Y" }}</p>
+    <p class="text-muted">{{ post.date | date: site.dateformat }}</p>
     {{ post.excerpt }}
-    <p><a href="{{ post.url }}">Continue Reading...</a></p>
+    <p><a href="{{ post.url }}">Continue reading...</a></p>
   </div>
 {% endfor %}
 
