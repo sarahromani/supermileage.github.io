@@ -59,6 +59,7 @@ module.exports = function(grunt) {
       jekyll: {
         files: [
           '*.html',
+          '*.js',
           '_config.yml',
           '_drafts/*.*',
           '_includes/*.*',
