@@ -1,6 +1,9 @@
 name: Michael Thiesen
 url: http://www.micthiesen.ca
 
+paginate: 2
+paginate_path: /page/:num/
+
 exclude: [
   bower.json,
   CNAME,
