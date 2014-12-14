@@ -12,19 +12,20 @@
     <link rel="stylesheet" href="build/style.css" type="text/css" media="screen">
   </head>
   <body>
-    <div class="container-fluid maxwidth">
+    <div class="container-fluid">
       <h1 class="site-name">{{ site.name }}</h1>
     </div>
 
     <div id="navigation">
-      <div class="container-fluid maxwidth">
-        <ul class="list-inlinle list-unstyled">
-          <li>GitHub</li>
+      <div class="container-fluid">
+        <ul class="list-inline list-unstyled">
+          <li><a href="/">Home</a></li>
+          <li><a href="https://github.com/micthiesen" target="_blank">GitHub</a></li>
         </ul>
       </div>
     </div>
 
-    <div class="container-fluid maxwidth">
+    <div class="container-fluid">
       {% if page.title %}
       <h3 class="text-muted">{{ page.title }}</h3>
       {% endif %}
