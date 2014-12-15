@@ -9,6 +9,8 @@ exclude: [
   CNAME,
   README.md,
   bower.json,
+  Gemfile,
+  Gemfile.lock,
   gruntfile.js,
   package.json,
   style.less,
