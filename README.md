@@ -17,3 +17,8 @@
 - `$ grunt`
 
 You can now browse to [localhost:8000](http://localhost:8000/) to view the site. There's no need to restart grunt after you make changes, it will update automatically.
+
+## Building the Project
+- `$ grunt build`
+
+Run this before each commit. It will compress and clean the CSS file (`build/style.css`).
