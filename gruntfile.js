@@ -24,11 +24,6 @@ module.exports = function(grunt) {
       },
     },
     less: {
-      dev: {
-        files: {
-          'build/style.css': 'style.less'
-        }
-      },
       prod: {
         options: {
           compress: true,
@@ -58,7 +53,7 @@ module.exports = function(grunt) {
     watch: {
       less: {
         files: ['style.less'],
-        tasks: ['less:dev', 'jekyll']
+        tasks: ['less:prod', 'jekyll']
       },
       jekyll: {
         files: [
@@ -71,6 +66,7 @@ module.exports = function(grunt) {
           '_layouts/*.*',
           '_posts/*.*',
           '_data/*.*',
+          'images/*.*',
         ],
         tasks: ['jekyll']
       }
@@ -86,7 +82,7 @@ module.exports = function(grunt) {
 
   grunt.registerTask(
     'default',
-    ['clean:dist', 'copy', 'less:dev', 'jekyll', 'connect', 'watch']
+    ['clean:dist', 'copy', 'less:prod', 'jekyll', 'connect', 'watch']
   );
   grunt.registerTask(
     'build',
