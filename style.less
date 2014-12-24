@@ -7,16 +7,64 @@
 @fa-font-path: "fonts/";
 
 /* Google Fonts */
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(http://fonts.googleapis.com/css?family=Fugaz+One|Droid+Serif);
+
+/* Variables */
+@ubc-blue: #002145;
+@ubc-grey: #2F5D7C;
+@gray-lightish: lighten(#fff - @gray-dark, 5%);
 
 @font-family-serif: "Droid Serif", Georgia, "Times New Roman", Times, serif;
 @font-family-base: @font-family-serif;
 @font-size-base: 16px;
 
-@gray-lightish: lighten(#fff - @gray-dark, 5%);
-
-@link-color: #2F5D7C;
+@text-color: @gray;
+@link-color: @ubc-grey;
 @link-hover-color: lighten(@link-color, 10%);
+
+/* Header */
+header#header {
+  color: white;
+  height: 400px;
+  margin-bottom: 0px;
+  @media (max-width: @screen-sm) {
+    height: 150px;
+  }
+  @media (max-width: @screen-xs) {
+    height: 135px;
+  }
+
+  img {
+    height: 75px;
+    padding-right: 10px;
+    @media (max-width: @screen-sm) {
+      height: 60px;
+    }
+    @media (max-width: @screen-xs) {
+      display: none;
+    }
+  }
+
+  h2 {
+    font-family: 'Fugaz One', cursive;
+    font-size: 55px;
+    text-shadow: 0 0 50px black;
+    @media (max-width: @screen-sm) {
+      font-size: 40px;
+    }
+    @media (max-width: @screen-xs) {
+      font-size: 35px;
+    }
+  }
+
+  p {
+    font-size: 22px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    @media (max-width: @screen-sm) {
+      display: none;
+    }
+  }
+}
 
 a.subtle-link {
   color: inherit;
@@ -24,6 +72,9 @@ a.subtle-link {
 
 .container-fluid {
   max-width: 600px;
+}
+
+#main-content {
   img {
     width: 100%;
   }

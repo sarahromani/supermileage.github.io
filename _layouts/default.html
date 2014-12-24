@@ -13,7 +13,7 @@ navigation:
     <meta name="theme-color" content="#FC1F37" />
     <meta itemprop="name" content="{{ site.name }}" />
     <meta itemprop="url" content="{{ site.url }}" />
-    <meta itemprop="genre" content="Personal" />
+    <meta itemprop="genre" content="Engineering" />
 
     <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
 
@@ -21,9 +21,19 @@ navigation:
     <link rel="stylesheet" href="/build/style.css" type="text/css" media="screen" />
   </head>
   <body>
-    <div class="container-fluid">
-      <h1 class="site-name">{{ site.name }}</h1>
-    </div>
+    <header
+      id="header"
+      class="jumbotron"
+      style="background: url(/images/default-header.jpg) no-repeat center / cover;"
+      >
+      <div class="container-fluid">
+        <h2 id="header-title" class="text-center text-nowrap">
+            <img src="/images/ubc-logo.svg" alt="UBC logo" />
+            {{ site.name }}
+        </h2>
+        <p class="text-center">{{ site.description }}</p>
+      </div>
+    </header>
 
     <div id="navigation">
       <div class="container-fluid">
@@ -38,7 +48,7 @@ navigation:
       </div>
     </div>
 
-    <div class="container-fluid">
+    <div id="main-content" class="container-fluid">
       {% if page.title %}
         <h3>{{ page.title }}</h3>
       {% endif %}

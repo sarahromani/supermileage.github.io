@@ -1,4 +1,5 @@
 name: UBC Supermileage
+description: The UBC Supermileage Team
 url: http://supermileage.ca
 dateformat: "%-d %B, %Y"
 
