@@ -1,4 +1,4 @@
-# micthiesen.github.io
+# supermileage.github.io
 
 ## Installation
 
@@ -21,4 +21,4 @@ You can now browse to [localhost:8000](http://localhost:8000/) to view the site.
 ## Building the Project
 - `$ grunt build`
 
-Run this before each commit. It will compress and clean the CSS file (`build/style.css`).
+If you're not running the `$ grunt` command which watches for changes, run this before each commit. It will compress and clean the CSS file (`build/style.css`).
