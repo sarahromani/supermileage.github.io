@@ -1,5 +1,9 @@
 # supermileage.github.io
 
+## Writing a New Post
+This may look intimidating, but in reality it's quite simple! Just follow these steps:
+- Navigate [here](https://github.com/supermileage/supermileage.github.io/tree/master/_posts) and click the `+` sign to create a new file. ![plus sign](images/readme-new-file.png)
+
 ## Installation
 
 ### Dependencies
