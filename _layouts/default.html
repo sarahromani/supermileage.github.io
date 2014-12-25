@@ -4,6 +4,12 @@ navigation:
     url: /
   - text: About
     url: /about.html
+  - text: Dropdown
+    items:
+      - text: Item 1
+        url: /item1.html
+      - text: Item 2
+        url: /item2.html
 ---
 
 <!DOCTYPE html>
@@ -40,9 +46,34 @@ navigation:
         <ul class="list-inline list-unstyled">
           {% assign url = page.url | remove:'index.html' %}
           {% for link in page.navigation %}
-            <li {% if url == link.url %}class="active"{% endif %}>
-              <a href="{{ link.url }}">{{ link.text }}</a>
-            </li>
+            {% if link.items %}
+              <li class="dropdown">
+                <span
+                  class="dropdown-toggle cursor-action"
+                  type="button"
+                  id="dropdown-{{ link.text }}"
+                  data-toggle="dropdown"
+                  aria-expanded="true"
+                  >
+                  {{ link.text }} <span class="caret"></span>
+                </span>
+                <ul
+                  class="dropdown-menu"
+                  role="menu"
+                  aria-labelledby="dropdown-{{ link.text }}"
+                  >
+                  {% for item in link.items %}
+                  <li role="presentation">
+                    <a href="{{ item.url }}" role="menuitem" tabindex="-1">{{ item.text }}</a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              <li {% if url == link.url %}class="active"{% endif %}>
+                <a href="{{ link.url }}">{{ link.text }}</a>
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       </div>

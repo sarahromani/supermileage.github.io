@@ -70,6 +70,10 @@ a.subtle-link {
   color: inherit;
 }
 
+.cursor-action {
+  cursor: pointer;
+}
+
 .container-fluid {
   max-width: 600px;
 }
@@ -83,12 +87,18 @@ a.subtle-link {
 #navigation {
   background-color: @gray-dark;
 
+  color: @gray-lightish;
   a {
     color: @gray-lightish;
   }
   li.active {
     a {
       color: #fff;
+    }
+  }
+  .dropdown-menu {
+    a {
+      color: @text-color;
     }
   }
 
