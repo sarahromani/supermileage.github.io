@@ -10,6 +10,11 @@ navigation:
         url: /item1.html
       - text: Item 2
         url: /item2.html
+sponsors:
+  - name: Shell
+    logo: http://www.logodesignlove.com/images/evolution/shell-logo-design.gif
+  - name: UBC
+    logo: http://brand.ubc.ca/files/2012/07/UBCLogo1.jpg
 ---
 
 <!DOCTYPE html>
@@ -88,7 +93,16 @@ navigation:
           {{ content }}
         </div>
         <div class="col-md-3">
-          <h4 id="sidebar-title">Sponsors</h4>
+          <h4 class="text-center" id="sidebar-title">Sponsors</h4>
+          {% for sponsor in page.sponsors %}
+            <p class="text-center">
+              <img
+                class="sponsor-logo"
+                src="{{ sponsor.logo }}"
+                alt="{{ sponsor.name }}"
+                />
+            </p>
+          {% endfor %}
         </div>
       </div>
     </div>
