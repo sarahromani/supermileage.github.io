@@ -16,7 +16,8 @@ exclude: [
   package.json,
   style.less,
   bower_components,
-  node_modules
+  node_modules,
+  styles
 ]
 
 highlighter: pygments

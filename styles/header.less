@@ -1,0 +1,43 @@
+/* Header */
+header#header {
+  color: white;
+  height: 350px;
+  margin-bottom: 0px;
+  @media (max-width: @screen-sm) {
+    height: 150px;
+  }
+  @media (max-width: @screen-xs) {
+    height: 135px;
+  }
+
+  img {
+    height: 75px;
+    padding-right: 10px;
+    @media (max-width: @screen-sm) {
+      height: 60px;
+    }
+    @media (max-width: @screen-xs) {
+      display: none;
+    }
+  }
+
+  h2 {
+    font-family: 'Fugaz One', cursive;
+    font-size: 55px;
+    text-shadow: 0 0 50px black;
+    @media (max-width: @screen-sm) {
+      font-size: 40px;
+    }
+    @media (max-width: @screen-xs) {
+      font-size: 35px;
+    }
+  }
+
+  p {
+    font-size: 22px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    @media (max-width: @screen-sm) {
+      display: none;
+    }
+  }
+}
