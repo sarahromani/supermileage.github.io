@@ -88,19 +88,18 @@ sponsors:
 
     <div id="main-content" class="container-fluid">
       <div class="row">
-        <div class="col-md-9">
+        <div id="page-content" class="col-md-9">
           {% if page.title %}
             <h3>{{ page.title }}</h3>
           {% endif %}
           {{ content }}
         </div>
-        <div class="col-md-3">
+        <div id="sidebar" class="col-md-3">
           <h4 class="text-center" id="sidebar-title">Sponsors</h4>
           {% for sponsor in page.sponsors %}
             <p class="text-center">
               <a href="{{ sponsor.link }}">
                 <img
-                  class="sponsor-logo"
                   src="{{ sponsor.logo }}"
                   alt="{{ sponsor.name }}"
                   title="{{ sponsor.name }}"
