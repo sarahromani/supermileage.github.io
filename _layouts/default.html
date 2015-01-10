@@ -2,14 +2,64 @@
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about.html
-  - text: Dropdown
+  - text: Social
     items:
-      - text: Item 1
-        url: /item1.html
-      - text: Item 2
-        url: /item2.html
+      - text: Blog
+        url: http://superblogii.wordpress.com/
+      - text: Facebook
+        url: https://www.facebook.com/ubcst
+      - text: Twitter
+        url: https://twitter.com/UBCSupermileage
+      - text: YouTube
+        url: http://www.youtube.com/user/UBCSupermileageTeam
+      - text: Flickr
+        url: http://www.flickr.com/photos/ubcst/
+  - text: Events
+    items:
+      - text: Current Events
+        url: /events/
+      - text: Past Events
+        url: /events/past-events.html
+      - text: Results
+        url: /events/results.html
+  - text: Vehicles
+    items:
+      - text: Urban Concept
+        url: /vehicles/urban-concept.html
+      - text: Prototype
+        url: /vehicles/prototype.html
+      - text: Previous Vehicles
+        url: /vehicles/previous.html
+  - text: Sponsors
+    items:
+      - text: Sponsors
+        url: /sponsors/
+      - text: Become a Sponsor
+        url: /sponsors/become-a-sponsor.html
+  - text: Media
+    items:
+      - text: In The Media
+        url: /media/
+      - text: Press Release
+        url: /media/press-release.html
+      - text: Photos and Media
+        url: /media/photos.html
+  - text: About
+    items:
+      - text: What is Supermileage?
+        url: /about/
+      - text: FAQ
+        url: /about/faq.html
+      - text: Team
+        url: /about/team.html
+      - text: Join Us
+        url: /about/join.html
+      - text: Links
+        url: /about/links.html
+  - text: Contact Us
+    url: /contact.html
+  - text: Donate
+    url: https://www.donate.startanevolution.ca/ea-action/action?ea.client.id=1730&ea.campaign.id=19413&Direct%20my%20Gift%20to%20Module=SAE%20Supermileage%20Team%20O961
 sponsors:
   - name: Shell
     link: http://shell.ca
@@ -90,12 +140,12 @@ sponsors:
       <div class="row">
         <div id="page-content" class="col-md-9">
           {% if page.title %}
-            <h3>{{ page.title }}</h3>
+            <h2>{{ page.title }}</h2>
           {% endif %}
           {{ content }}
         </div>
         <div id="sidebar" class="col-md-3">
-          <h4 class="text-center" id="sidebar-title">Sponsors</h4>
+          <h3 class="text-center" id="sidebar-title">Sponsors</h3>
           {% for sponsor in page.sponsors %}
             <p class="text-center">
               <a href="{{ sponsor.link }}">
