@@ -20,8 +20,10 @@ navigation:
         url: /events/
       - text: Past Events
         url: /events/past-events.html
-      - text: Results
-        url: /events/results.html
+      - text: Urban Concept Results
+        url: /events/urban-concept-results.html
+      - text: Prototype Results
+        url: /events/prototype-results.html
   - text: Vehicles
     items:
       - text: Urban Concept
@@ -184,7 +186,7 @@ sponsors:
           <h3 class="text-center" id="sidebar-title">Sponsors</h3>
           {% for sponsor in page.sponsors %}
             <p class="text-center">
-              <a href="{{ sponsor.link }}">
+              <a href="{{ sponsor.link }}" target="_blank">
                 <img
                   src="{{ sponsor.logo }}"
                   alt="{{ sponsor.name }}"
