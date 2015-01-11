@@ -66,7 +66,7 @@ module.exports = function(grunt) {
           '_layouts/*.*',
           '_posts/*.*',
           '_data/*.*',
-          'images/*.*',
+          'images/**.*',
         ],
         tasks: ['jekyll']
       }
