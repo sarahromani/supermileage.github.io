@@ -40,5 +40,5 @@ If you would like to learn more about sponsoring the team, please take a look at
   <img class="size-full wp-image-501  aligncenter" title="UBC Supermileage Team Sponsorship Email Address" src="http://supermileage.ca/wp-content/uploads/2006/06/SponsorshipEmail.gif" alt="sponsor <at> supermileage <dot> ca" width="397" height="40" />
 </p>
 
- [1]: /index.php/team/results/
- [2]: /index.php/sponsors/media/
+ [1]: /events/prototype-results.html
+ [2]: /media/
