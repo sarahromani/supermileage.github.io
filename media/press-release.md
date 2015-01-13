@@ -10,5 +10,5 @@ Please [contact us][1] if you would like a press release for our Prototype and U
 The UBC Supermileage Team
 
  [1]: /contact.html
- [2]: /team/photos.html
+ [2]: /media/photos.html
  [3]: /about/faq.html
