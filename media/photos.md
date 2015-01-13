@@ -3,33 +3,30 @@ title: 'Photos &#038; Media'
 author: Supermileage
 layout: default
 ---
-  * [2005 Sponsor Appreciation Night][1]
-  * [2005 Competition Album ][2]
-    > Download the [2005 Media Photo Package][3] (5MB)
-  * [2006 Competition Album][4]
-    > Download the [2006 Media Photo Package][5] (10MB)
-  * [2008 Competition Album][6]
-  * [2010 Competition Album][7]
+* [2005 Sponsor Appreciation Night][1]
+* [2005 Competition Album ][2]
+* Download the [2005 Media Photo Package][3] (5MB)
 
-> Download the [2010 Media Photo Package][8] (14.1MB)
+* [2006 Competition Album][4]
+* Download the [2006 Media Photo Package][5] (10MB)
 
-  * [2010 Competition Video][9]
-  * [2011 &#8211; 10th Year Anniversary Video][10]
-  * [2011 Competition Album][11]
+* [2008 Competition Album][6]
 
-> Download the [2011 Media Photo Package][12] (37.7 MB)
+* [2010 Competition Album][7]
+* [2010 Competition Video][9]
+* Download the [2010 Media Photo Package][8] (14.1MB)
 
-  * [2011 Competition Video][13]
+* [2011 &#8211; 10th Year Anniversary Video][10]
+* [2011 Competition Album][11]
+* [2011 Competition Video][13]
+* Download the [2011 Competition Video][14] (90.1 MB)
+* Download the [2011 Competition Video Footage (Source) ][15] (106 MB)
+* Download the [2011 Media Photo Package][12] (37.7 MB)
 
-> Download the [2011 Competition Video][14] (90.1 MB)
-
-> Download the [2011 Competition Video Footage (Source) ][15] (106 MB)
-
-  * [2012 Competition Video][16]
-  * <a title="2013 Competition Video" href="http://www.youtube.com/watch?v=knQIIFWIjQY&feature=c4-overview&list=UUcPEcvy-udkJKxozfqrTEyw" target="_self">2013 Competition Video</a>
-  * [2013 Competition Album][17]
-
-  * <a href="http://www.flickr.com/photos/ubcst/sets/72157639322338326/" target="_blank">2013 Media Photo Package</a>
+* [2012 Competition Video][16]
+* [2013 Competition Video](http://www.youtube.com/watch?v=knQIIFWIjQY)
+* [2013 Competition Album][17]
+* [2013 Media Photo Package](http://www.flickr.com/photos/ubcst/sets/72157639322338326/)
 
  [1]: http://www.sites.mech.ubc.ca/~supermileage/Images/SponsorNight2005/
  [2]: http://www.sites.mech.ubc.ca/~supermileage/Images/2005%20Competition/PR%20Pack/
