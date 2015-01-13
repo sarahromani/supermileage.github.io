@@ -7,9 +7,7 @@ Fuelathon competitions provide engineering and technology students with a challe
 
 Vehicles are powered by a small four-stroke lawnmower engine, and must complete 6 laps of a 2.4km track (with hills) with a minimum speed of 24km/hr. Fuel efficiency is calculated by measuring the vehicle&#8217;s net fuel consumption over the total distance traveled.
 
-<h3 style="padding-bottom: 5px; padding-top: 20px;">
-  SAE Supermileage Competition
-</h3>
+## SAE Supermileage Competition
 
 The traditional &#8216;Supermileage&#8217; competition is an annual <a href="http://www.sae.org/" target="_blank">SAE</a> student engineering competition. The event takes place every year in Marshall, Michigan, at the [Eaton][1] Proving Grounds. Students compete against teams from across Canada, USA, Latin America and even India.
 
