@@ -37,5 +37,5 @@ Teams in the Eco-Marathon have carte-blanc on engine design where the SAE Superm
 ##### What&#8217;s the point of a gas fuel-efficiency competition, shouldn&#8217;t you be working on solar car or fuel cell vehicle?
 A: Supermileage is mostly dedicated to creating energy efficient vehicles, regardless of the energy source. In the long run, UBCST aims to work on implementing an alternate energy source on our urban concept vehicle. Until this transition, we will continue to work with the most commonly used fuel source: gasoline. While we are still using gas, it&#8217;s important for us to reduce it&#8217;s impact.
 
- [1]: /index.php/about/ "here"
- [2]: http://supermileage.ca/contact "here"
+ [1]: /about/ "here"
+ [2]: /contact.html "here"
