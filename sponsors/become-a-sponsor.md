@@ -3,7 +3,7 @@ title: Become A Sponsor
 author: Supermileage
 layout: default
 ---
-***Why sponsor us? ***
+***Why sponsor us?***
 Because it is easy and there are a lot of benefits:
 
 <ul>
