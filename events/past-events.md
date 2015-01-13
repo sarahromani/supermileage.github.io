@@ -91,23 +91,23 @@ UBCST will be presenting the Argo at the [UBC Alumni Weekend 2010][2], on Saturd
 **Student Auto Skills Challenge (May 01 2010)**
 UBCST is planning to attend the Student Auto Skills Challenge at BCIT Burnaby (Building NE16) between 9:00am to 1:00pm to show our support to the students participating. We will be working on bringing our new Urban Concept Car – The Argo and are looking forward to seeing this generation of automotive students participate in the challenge!
 
-**SAE Industry Night (April 8 2010)
-**SAEBC is holding an Industry Night event from 5:00 &#8211; 7:30pm starting in the Kaiser Atrium.  Some of the UBC SAE teams (Formula, Heavylift, UBCST, etc) will be presenting their vehicles in the Atrium, followed by pizza dinner and presentations in the CEME Grad and Faculty Lounge.  All are welcome!
+**SAE Industry Night (April 8 2010)**
+SAEBC is holding an Industry Night event from 5:00 &#8211; 7:30pm starting in the Kaiser Atrium.  Some of the UBC SAE teams (Formula, Heavylift, UBCST, etc) will be presenting their vehicles in the Atrium, followed by pizza dinner and presentations in the CEME Grad and Faculty Lounge.  All are welcome!
 
-**UBC Engineering Open House 2009 (November 7, 2009)
-**The team will be attending the UBC Engineering Open House in Kaiser 1180 on Saturday, Nov. 9.   It&#8217;ll be fun talking to the public and maybe some prospective engineering students!
+**UBC Engineering Open House 2009 (November 7, 2009)**
+The team will be attending the UBC Engineering Open House in Kaiser 1180 on Saturday, Nov. 9.   It&#8217;ll be fun talking to the public and maybe some prospective engineering students!
 
-**UBC ESTC Open House 2009 (September 23, 2009)
-**The team will be attending the ESTC Open House on Wednesday, Sept 23rd in KAIS 2020/2030.
+**UBC ESTC Open House 2009 (September 23, 2009)**
+The team will be attending the ESTC Open House on Wednesday, Sept 23rd in KAIS 2020/2030.
 
-**UBC Imagine Day 2009 (September 8, 2009)
-**Keep an eye out for us on Main Mall!
+**UBC Imagine Day 2009 (September 8, 2009)**
+Keep an eye out for us on Main Mall!
 
-**E-Fest at Vancouver Public Library (February 28, 2009)
-**We will be attending the annual E-Fest again this year.  Come check us out!
+**E-Fest at Vancouver Public Library (February 28, 2009)**
+We will be attending the annual E-Fest again this year. Come check us out!
 
-**Team Recruitment (September 2007)
-**The team will be openly looking for UBC students to join the team and further push the limits of fuel efficiency. Look out for us at first week engineering events, posters, and announcments in classes. Details of the first team meeting of the year will come closer to September.
+**Team Recruitment (September 2007)**
+The team will be openly looking for UBC students to join the team and further push the limits of fuel efficiency. Look out for us at first week engineering events, posters, and announcments in classes. Details of the first team meeting of the year will come closer to September.
 
 **E-Fest at the Vancouver Public Library (March 4, 2006)**
 Once again we will be attending the annual E-Fest. It&#8217;s a chance for engineering companies and students to show the public what we do.
