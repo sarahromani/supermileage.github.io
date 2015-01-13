@@ -34,6 +34,6 @@ The [Urban Concept Car][5] is a slightly more practical vehicle meant to bridge 
 
  [1]: http://www.eaton.com/
  [2]: http://www.sae.org/images/cds/selfservice/253715039_2010%20Super%20Rules%20FINAL%209-23-09.pdf
- [3]: http://supermileage.ca/team/previous-vehicles/prototype
- [4]: http://supermileage.ca/team/results/prototype
- [5]: http://supermileage.ca/team/previous-vehicles/urban-concept-car
+ [3]: /vehicles/prototype.html
+ [4]: /events/prototype-results.html
+ [5]: /vehicles/urban-concept.html
