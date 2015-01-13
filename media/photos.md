@@ -24,6 +24,7 @@ layout: default
 * Download the [2011 Media Photo Package][12] (37.7 MB)
 
 * [2012 Competition Video][16]
+
 * [2013 Competition Video](http://www.youtube.com/watch?v=knQIIFWIjQY)
 * [2013 Competition Album][17]
 * [2013 Media Photo Package](http://www.flickr.com/photos/ubcst/sets/72157639322338326/)
