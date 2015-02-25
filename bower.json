@@ -9,6 +9,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "~3",
-    "components-font-awesome": "~4"
+    "components-font-awesome": "~4",
+    "fullcalendar": "~2.3.0"
   }
 }
