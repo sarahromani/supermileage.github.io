@@ -189,7 +189,7 @@ sponsors:
     <div id="main-content" class="container-fluid">
       <div class="row">
         <div id="page-content" class="col-md-9">
-          {% if page.title %}
+          {% if page.title and page.fullcalendar != true %}
             <h2>{{ page.title }}</h2>
           {% endif %}
           {{ content }}
@@ -214,10 +214,11 @@ sponsors:
     <!-- JavaScript files -->
     <script src="/build/js/jquery.min.js"></script>
     <script src="/build/js/bootstrap.min.js"></script>
-    {% if page.fullcalendar %}
+    {% if page.fullcalendar == true %}
       <script src="/build/js/moment.min.js"></script>
-      <script src="/build/js/gcal.js"></script>
       <script src="/build/js/fullcalendar.min.js"></script>
+      <script src="/build/js/gcal.js"></script>
+      <script src="/js/calendar.js"></script>
     {% endif %}
     <script src="/scripts.js"></script>
     {% include analytics.html %}
