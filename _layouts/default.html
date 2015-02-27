@@ -214,6 +214,11 @@ sponsors:
     <!-- JavaScript files -->
     <script src="/build/js/jquery.min.js"></script>
     <script src="/build/js/bootstrap.min.js"></script>
+    {% if page.fullcalendar %}
+      <script src="/build/js/moment.min.js"></script>
+      <script src="/build/js/gcal.js"></script>
+      <script src="/build/js/fullcalendar.min.js"></script>
+    {% endif %}
     <script src="/scripts.js"></script>
     {% include analytics.html %}
   </body>

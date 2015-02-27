@@ -16,12 +16,24 @@ module.exports = function(grunt) {
         src: ['fonts/*'],
         dest: 'build/'
       },
+      fullcalendar: {
+        cwd: 'bower_components/fullcalendar/dist/',
+        expand: true,
+        src: ['gcal.js', 'fullcalendar.min.js'],
+        dest: 'build/js/'
+      },
       jquery: {
         cwd: 'bower_components/jquery/dist/',
         expand: true,
         src: ['jquery.min.js'],
         dest: 'build/js/'
       },
+      moment: {
+        cwd: 'bower_components/moment/min/',
+        expand: true,
+        src: ['moment.min.js'],
+        dest: 'build/js/'
+      }
     },
     less: {
       prod: {
