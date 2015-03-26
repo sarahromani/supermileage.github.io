@@ -10,22 +10,22 @@ If you are looking for more info about any aspect of the team or design of the v
 For sponsorship information or for more details about our team, please be sure to check out [these][2] pages.
 
 <p style="text-align: center;">
-  <strong>Email Address:**<br />
+  <strong>Email Address:</strong><br />
   <a href="mailto::info@supermileage.ca">info@supermileage.ca</a>
 </p>
 
 <p style="text-align: center;">
-  <strong>Mailing Address:**<br />
+  <strong>Mailing Address:</strong><br />
   UBC Supermileage Team<br /> University of British Columbia<br /> 2054-6250 Applied Science Lane<br /> Vancouver, BC, Canada<br /> V6T 1Z4
 </p>
 
 <p style="text-align: center;">
-  <strong>Team Contact:**<br />
+  <strong>Team Contact:</strong><br />
   Team Captain &mdash; Katelyn Currie
 </p>
 
 <p style="text-align: center;">
-  <strong>Faculty Advisor:**<br />
+  <strong>Faculty Advisor:</strong><br />
   Jon Mikkelsen, Mech. Eng. Faculty &mdash; <a href="mailto:mikk@mech.ubc.ca">mikk@mech.ubc.ca</a>
 </p>
 
