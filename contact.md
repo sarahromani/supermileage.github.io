@@ -13,7 +13,7 @@ For sponsorship information or for more details about our team, please be sure t
 
 <p style="text-align: center;">
   <strong>Email Address:</strong><br />
-  <a href="mailto::info@supermileage.ca">info@supermileage.ca</a>
+  <a href="mailto:info@supermileage.ca">info@supermileage.ca</a>
 </p>
 
 <p style="text-align: center;">
