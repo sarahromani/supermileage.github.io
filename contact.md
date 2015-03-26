@@ -7,6 +7,8 @@ Captain:
 ---
 If you are looking for more info about any aspect of the team or design of the vehicle, send us your questions! Also, be sure to check out our list of [frequently asked questions][1].
 
+For more details about our team, go [here](/about/team.html). For sponsorship information, check out [this](/sponsors/) page.
+
 For sponsorship information or for more details about our team, please be sure to check out [these][2] pages.
 
 <p style="text-align: center;">
