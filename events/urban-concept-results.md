@@ -4,15 +4,17 @@ author: Supermileage
 layout: default
 ---
 
-[![Urban Concept Car - The Argo](http://www.supermileage.ca/images/photos/IMG_2027.resize.jpg)](http://www.supermileage.ca/images/photos/IMG_2027.resize.jpg)The Urban Concept Car is a fairly new class of the Shell Eco Marathon Americas. The UBC team introduced its design, the Argo, in 2010 but didn't finish an official run. In 2011, the team spent a difficult year refining the vehicle design and training new team members, but still improved their score with 214 mpg and achieved 4th place. With the introduction of a working fuel injection system and increased weight reductions, 2012 saw the Argo reach an efficiency of 288mpg and achieve 3rd place. 2013 saw the second full iteration of the Urban Concept Car, named the Odysseus. Featuring improved aerodynamics and more refined fuel injection among other things, this vehicle rose to 2nd place with a result of 577 mpg.
+![Urban Concept Car - The Argo](/images/vehicles/urban-concept-car.jpg)
 
-<table border="0" width="100%" cellspacing="1" cellpadding="0">
+The Urban Concept Car is a fairly new class of the Shell Eco Marathon Americas. The UBC team introduced its design, the Argo, in 2010 but didn't finish an official run. In 2011, the team spent a difficult year refining the vehicle design and training new team members, but still improved their score with 214 mpg and achieved 4th place. With the introduction of a working fuel injection system and increased weight reductions, 2012 saw the Argo reach an efficiency of 288 mpg and achieve 3rd place. 2013 saw the second full iteration of the Urban Concept Car, named the Odysseus. Featuring improved aerodynamics and more refined fuel injection among other things, this vehicle rose to 2nd place with a result of 577 mpg.
+
+<table class="table">
 <tbody>
 <tr>
-<td>**Date**</td>
-<td>**Place**</td>
-<td>**Competition**</td>
-<td>**Mileage**</td>
+<td>Date</td>
+<td>Place</td>
+<td>Competition</td>
+<td>Mileage</td>
 </tr>
 <tr>
 <td>2013</td>

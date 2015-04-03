@@ -7,11 +7,11 @@ Technical specifications for the Argo can be found [here](http://www.sites.mech.
 
 <div style="width: 100%">
   <h4 style="padding-bottom:5px;padding-top:10px;">
-    2012/2013 &#8211; the Odysseus
+    2012/2013 &mdash; the Odysseus
   </h4>
 
   <p>
-    <a href="http://supermileage.ca/wp-content/uploads/2013/04/Odysseus-Med-Res.jpg"><img class="size-medium wp-image-537 alignleft" title="The Odysseus 2013" src="http://supermileage.ca/wp-content/uploads/2013/04/Odysseus-Med-Res.jpg" alt="" width="216" height="144" /></a>
+    <a href="/wp-content/uploads/2013/04/Odysseus-Med-Res.jpg"><img title="The Odysseus 2013" src="http://supermileage.ca/wp-content/uploads/2013/04/Odysseus-Med-Res.jpg" width="300"/></a>
   </p>
 
   <p>
@@ -21,11 +21,11 @@ Technical specifications for the Argo can be found [here](http://www.sites.mech.
 
 <div style="width: 100%">
   <h4 style="padding-bottom:5px;padding-top:10px;">
-    2011/2012 &#8211; the Argo
+    2011/2012 &mdash; the Argo
   </h4>
 
   <p>
-    <a href="http://supermileage.ca/wp-content/uploads/2010/09/Kevan-Cote-3048.jpg"><img class="size-medium wp-image-537 alignleft" title="The Argo 2012" src="http://supermileage.ca/wp-content/uploads/2010/09/Kevan-Cote-3048-300x200.jpg" alt="" width="216" height="144" /></a>
+    <a href="/wp-content/uploads/2010/09/Kevan-Cote-3048.jpg"><img title="The Argo 2012" src="/wp-content/uploads/2010/09/Kevan-Cote-3048-300x200.jpg" width="300"/></a>
   </p>
 
   <p>
@@ -35,16 +35,19 @@ Technical specifications for the Argo can be found [here](http://www.sites.mech.
 
 <div style="width: 100%">
   <h4 style="padding-bottom:5px;padding-top:10px;">
-    2010/2011 &#8211; the Argo
+    2010/2011 &mdash; the Argo
   </h4>
 
   <p>
-    <img class="alignleft size-full wp-image-353" title="the Argo 2011" src="http://supermileage.ca/wp-content/uploads/2010/09/UBCST-SEMA-26-Resize.jpg" alt="" width="211" height="158" />A refinement of 2009/2010&#8217;s submission to the Urban Concept Car class, the second revision of the Argo sported several improvements. It had a more rigid steering system, improved driver interface with the vehicle, a new door mechanism for reduced exit time in case of an emergency, custom spoked lightweight wheels, and the first iteration of a newly developed, 50cc engine. Despite a larger engine, added features and improved rigidity to the vehicle, the overall weight was reduced to 225 pounds. </div>
+    <img title="the Argo 2011" src="/wp-content/uploads/2010/09/UBCST-SEMA-26-Resize.jpg" width="300"/>
+  </p>
+  <p>
+    A refinement of 2009/2010&#8217;s submission to the Urban Concept Car class, the second revision of the Argo sported several improvements. It had a more rigid steering system, improved driver interface with the vehicle, a new door mechanism for reduced exit time in case of an emergency, custom spoked lightweight wheels, and the first iteration of a newly developed, 50cc engine. Despite a larger engine, added features and improved rigidity to the vehicle, the overall weight was reduced to 225 pounds. </div>
 
     <div style="width: 100%">
       <h4 style="padding-bottom:5px;padding-top:10px;">
-        2009/2010 &#8211; the Argo
+        2009/2010 &mdash; the Argo
       </h4>
 
       <p>
-        <img class="alignleft" src="http://www.supermileage.ca/images/photos/IMG_2027.resize.jpg" alt="Urban Concept Car - The Argo" width="211" height="143" />UBCST&#8217;s first entry into the Urban Concept Car class, the Argo featured a carbon fibre body, side opening door, honeycomb platform chassis, four scooter cast aluminum wheels and a 35cc Honda four stroke engine. The car demonstrated 163.5 mpg, giving the team a solid design to work with in future years. </div>
+        UBCST&#8217;s first entry into the Urban Concept Car class, the Argo featured a carbon fibre body, side opening door, honeycomb platform chassis, four scooter cast aluminum wheels and a 35cc Honda four stroke engine. The car demonstrated 163.5 mpg, giving the team a solid design to work with in future years. </div>
