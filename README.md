@@ -5,18 +5,23 @@ Please see [this wiki page](https://github.com/supermileage/supermileage.github.
 
 ## Installation
 
+Clone the repo onto your own computer.
+
 ### Dependencies
-- [npm](https://www.npmjs.com/)
-- [Ruby](https://www.ruby-lang.org/)
-- [RubyGems](https://rubygems.org/)
+Install the following (in order):
+- [npm](https://docs.npmjs.com/getting-started/installing-node)
+- [Ruby](https://www.ruby-lang.org/en/downloads/)
+- [RubyGems](https://rubygems.org/pages/download)
 - [Bundler](http://bundler.io/) (`$ gem install bundler`)
 
 ### More Dependencies
+Navigate to the repo on your computer in terminal/cmd and run the following commands:
 - `$ npm install`
 - `$ bower install`
 - `$ bundle install`
 
 ## Running the Project
+In the same directory, run:
 - `$ grunt`
 
 You can now browse to [localhost:8000](http://localhost:8000/) to view the site. There's no need to restart grunt after you make changes, it will update automatically.
