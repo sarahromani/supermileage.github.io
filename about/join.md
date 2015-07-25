@@ -3,11 +3,11 @@ title: Join The Team
 author: Supermileage
 layout: default
 Captain:
-  - Ryan Gibson
+  - Nancy Chu
 ---
 <div>
   <p>
-    <strong>Recruitment for 2014/2015 is now open! </strong>We are a friendly and welcoming team looking for students with good attitudes above anything else.<strong> </strong>If you are interested in joining the team,<a href="https://docs.google.com/forms/d/1DO5lYSBwgNF2_As-o1yl8DHn5yR2-7Ogc__QPPrCBKM/viewform" target="_blank"> <strong>fill out this form </a></strong>for 2014/2015 recruitment. For more information, come check us out at our <strong>Saturday meetings, 10 am in Rusty Hut. </strong>Alternatively, feel free to <a href="/contact.html">send us an email</a> with your name and we will contact you immediately so that you can check out if Supermileage is right for you. <strong>Recruitment closes September 12, 2014. </strong>Beyond this date, recruitment will be made only if space permits, and on a case by case basis.</p>
+    <strong>Recruitment for 2015/2016 is now open! </strong>We are a friendly and welcoming team looking for students with good attitudes above anything else.<strong> </strong>If you are interested in joining the team,<a href="https://docs.google.com/forms/d/1rCp0Tx_k-E5VfqGON4isK_SyBblwmGwjXnqWgmVjU9E/viewform" target="_blank"> <strong>fill out this form</strong></a> for 2015/2016 recruitment. For more information, come check us out at our <strong>Saturday meetings, 10 am in Rusty Hut. </strong>Alternatively, feel free to <a href="/contact.html">send us an email</a> with your name and we will contact you immediately so that you can check out if Supermileage is right for you. <strong>Recruitment closes September 12, 2015. </strong>Beyond this date, recruitment will be made only if space permits, and on a case by case basis.</p>
 
     <div style="float: right; width: 40%;">
       <img class="alignright" src="http://farm8.staticflickr.com/7027/6639657451_f00f716da6_b.jpg" alt="Working on the Chassis" width="200" height="300" /><br /> <img class="alignright" src="http://farm8.staticflickr.com/7152/6639621589_e83483ec67_b.jpg" alt="Working on the Aero Shell" width="200" height="133" />
