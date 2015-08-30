@@ -18,8 +18,8 @@ $(document).ready(function() {
   };
 
   $('#calendar').fullCalendar({
-    events: { googleCalendarId: 'publicrelations@supermileage.ca' },
-    googleCalendarApiKey: 'AIzaSyBNx1fWwdceYo8m0Ngz8Mf_Fjhe4HtTmmc',
+    events: { googleCalendarId: 'supermileage.ca_60r3vil83809c8mlmoji4b3vgo@group.calendar.google.com' },
+    googleCalendarApiKey: 'AIzaSyApwSq9zcS0jFGIVzLkzgsVbaG5xSkOcAk',
     header: {
       left:   'title',
       center: '',
