@@ -34,7 +34,7 @@ With our **[proven track record][1]** and previous **[media coverage][2]**, spon
 
 ## Learn More
 
-If you would like to learn more about sponsoring the team, please take a look at our <a title="Sponsorship Package" href="http://supermileage.ca/wp-content/uploads/2014/08/Sponsorship-Package-2014-2015.pdf" target="_blank"><strong>Sponsorship Package</strong></a> or contact us at:
+If you would like to learn more about sponsoring the team, please take a look at our <a title="Sponsorship Package" href="http://supermileage.ca/wp-content/uploads/2015/Sponsorship-Package-2015-2016.pdf" target="_blank"><strong>Sponsorship Package</strong></a> or contact us at:
 
 <p style="text-align: center;">
   <img class="size-full wp-image-501  aligncenter" title="UBC Supermileage Team Sponsorship Email Address" src="http://supermileage.ca/wp-content/uploads/2006/06/SponsorshipEmail.gif" alt="sponsor <at> supermileage <dot> ca" width="397" height="40" />
