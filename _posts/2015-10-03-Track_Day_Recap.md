@@ -10,14 +10,14 @@ new members to see and test drive our returning competition vehicles. What was s
 
 The new recruits were also "pumped" for the upcoming year. "It is great to see what we will be working with,"  says Jason, a new recruit from the engine division. "An already built car shows us the pursuit of efficiency is not just some design on a computer, but something that can be created in real life," he continued. It is often true that the first step is the hardest, but by having an already built vehicle, the direction and the vision of the team was clear. They were use technological innovation to push the boundaries of fuel efficiency. 
 
-![image description](hhttp://imgur.com/8f1n7If)
+![image description](hhttp://imgur.com/8f1n7If.jpg)
 
 The pursuit of efficiency had always attracted many newcomers."The UBC Supermileage Team has always brought together people with different backgrounds who not only dream but want to create a brighter tomorrow," says Michael, a returning lead. It is true that a simple purpose can bring some of the most unexpected background together. From arts to science to commerce and to engineering, it is not the starting point that matters, but the journey where all talents come together to create a brighter and cleaner future. 
 
-![image description](hhttp://imgur.com/4almAqn)
+![image description](hhttp://imgur.com/4almAqn.jpg)
 
 At Track Day, many members had similar feelings as Jonathan and Jason. Everyone looked optimistically towards a new year. Many challenges were overcome last year, but new challenges will present themselves with time. As the gears of a new season start to turn, it is time to get back to work. Shell Eco-Marathon Americas 2016, here we come!
 
-![image description](http://imgur.com/nUw8f0f)
+![image description](http://imgur.com/nUw8f0f.jpg)
 
 Note: We would like to extend our sincerest thanks to the University Hill Secondary school for granting us use of their lot of this special day. 
