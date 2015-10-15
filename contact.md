@@ -3,7 +3,7 @@ title: Contact Us
 author: Supermileage
 layout: default
 Captain:
-  - Ryan Gibson
+  - Nancy Chu
 ---
 If you are looking for more info about any aspect of the team or design of the vehicle, send us your questions! Also, be sure to check out our list of [frequently asked questions][1].
 
@@ -21,7 +21,7 @@ For more details about our team, go [here](/about/team.html). For sponsorship in
 
 <p style="text-align: center;">
   <strong>Team Contact:</strong><br />
-  Team Captain &mdash; Katelyn Currie
+  Team Captain &mdash; Nancy Chu
 </p>
 
 <p style="text-align: center;">
