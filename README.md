@@ -12,6 +12,7 @@ Install the following (in order):
 - [npm](https://docs.npmjs.com/getting-started/installing-node)
 - [Ruby](https://www.ruby-lang.org/en/downloads/)
 - [RubyGems](https://rubygems.org/pages/download)
+- [RubyDevKit](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
 - [Bundler](http://bundler.io/) (`$ gem install bundler`)
 
 ### More Dependencies
