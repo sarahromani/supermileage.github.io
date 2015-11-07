@@ -7,8 +7,20 @@ layout: default
 **<a href="http://www.shell.com/global/environment-society/ecomarathon/events/americas.html" target="_blank">Shell Eco-Marathon 2014</a> (April 25 2014)**
 Our annual competition. The team limit is capped at 125 this year and will feature intense competition from across North and South America.
 
-**<a href="http://www.acec-bc.ca/events/transportation-conference.aspx" target="_blank">ACEC BC Facing the Future 2014</a> (January 28 2014)**
+**<a href="http://www.acec-bc.ca/events/transportation-codnference.aspx" target="_blank">ACEC BC Facing the Future 2014</a> (January 28 2014)**
 The Association of Consulting Engineering Companies has invited us to attend their transportation conference in early 2014 titled "Facing the Future"! The event is in collaboration with the Ministry of Transportation and Translink and showcases the future direction and trends surrounding British Columbia's transportation plans.
+
+**Engineering Open House Student Involvement (November 29 2014)**
+Student teams participated in Open House by leading a “Student Teams Safari” tour to visit the student teams. The event includes a tour to the EDC, Rusty Hut and Kaiser.
+ 
+**Fundraiser Raffle (September 18 2014 - October 10 2014)**  
+Our cars have suffered serious damages during its return from our last competition. In an effort to recover some of the financial setups from this incident, we will be holding a ticket raffle and using the sales to raise money for restocking our equipment and restoring our vehicles. I have reached out to various community sponsors in the greater Vancouver Area over the summer and have secured us about $400 worth in prizes for our raffle so far: 
+Entry tickets will be sold at a charge of $5 for one ticket and $10 for 3. 
+The draw date will be set for October 10th, 2014. 
+
+
+** Imagine Day 2014 (September 7th 2014) **
+The team held a booth on UBC’s Imagine day to present the work of Supermileage to our community and enlist interested students to join our endeavors. 
 
 **Shell Canadian Innovation Summit (October 07 2013)**
 UBCST will be attending an invite-only event by Shell Canada showcasing innovation in science and technology currently taking place right here in our home country! We'll be on hand with our urban concept vehicle Odysseus to demonstrate just what is possible with today's technology when it's pushed to its limits. Event attendees will include Colonel Chris Hadfield and Premier Christy Clark!
