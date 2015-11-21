@@ -15,7 +15,8 @@ UBC Supermileage would like to recognize the following organizations:
   * Shell Canada
   * APEGBC
   * UBC Department of Mechanical Engineering
-  * AirCare BC
+  * Honda 
+  * Fluor
   * UBC Engineering Professional Activities Fund (PAF)
   * UBC Shell Engineering Student Fund
   * Marshall Aerospace
@@ -25,14 +26,25 @@ UBC Supermileage would like to recognize the following organizations:
 
   * FiberTek
   * Avcorp
+  * Sensirion 
+  * Intergulf 
+  * Soller Composites 
   * Knighthill Automotive
   * Vorum
   * SolidWorks
-  * CD-adaptco
-  * SKF
-  * Stratus Aeronautics
+  * Max-Torque
   * CRN
   * Zaber Technologies
+ 
+#### Raffle Prize Donors
+  * The Vancouver Science Center 
+  * UBC Sports Car Club 
+  * Roger's Chocolates 
+  * Purdy's Chocolates 
+  * Zazou Salon 
+  * Vancouver Symphony Orchestra 
+  * Capilano Suspension Bridge 
+  * PNE Fright Night 
 
 ### Past Sponsors
 
@@ -41,6 +53,7 @@ UBCST would like to recognize our past sponsors &#8211; your assistance has been
 #### Financial
 
   * TD Friends of the Environment Foundation
+  * AirCare BC
   * Walter Gage Memorial Fund
 
 #### Materials & Resources
@@ -54,5 +67,8 @@ UBCST would like to recognize our past sponsors &#8211; your assistance has been
   * AirCanada Cargo
   * UBC Alumni
   * OneOak Design
+  * CD-adaptco
+  * SKF
+  * Stratus Aeronautics
 
 Are you interested in sponsoring UBC Supermileage? Let us know. We issue tax receipts!
