@@ -3,41 +3,41 @@ title: Past Events
 author: Supermileage
 layout: default
 ---
-**Engineering Open House (November 28 2015) ** 
+**Engineering Open House (November 28 2015)** 
 Prospective engineering students from local high schools dropped by the UBC Rusty Hut to learn what the campus has to offer in terms of design teams. We were able to show our two fuel-efficient cars to over 10 tour groups (with students and parents) and share the story behind our team. 
 
-**Zaber Tour (November 18 2015) **
+**Zaber Tour (November 18 2015)**
 Our general members were granted a tour of Zaber Technologies, a local Vancouver company that fabricates linear actuators. 
 
-** Track Day (September 26 2015)** 
+**Track Day (September 26 2015)** 
 We are excited to welcome our new cohort of Supermileagers who will be joining us on our pursuit for efficiency this year. Today we took our two returning vehicles to a school lot for some runs. 
 Two running cars and some rare Vancouver sunshine- what a fine way to kick off the year! Thank you University Hill High School for allowing us to use their lot.  
 
-** Orientation/ Interview 1 (September 12 2015) **
+**Orientation/ Interview 1 (September 12 2015)**
 A chance for potential candidates to get to know about our team and find the division that best suits their interest to interview for. 
-** Imagine Day (September 8 2015) **
+**Imagine Day (September 8 2015)**
 We hosted a booth on main mall for UBC’s 2015 imagine day to woo some fresh-faced first years and recruit new members into the force 
 
-** Rhino Workshop (August 8 2015) **
-A gentaleman we met at the ASEE conference in Seattle was very impressed with our team and our cars. He has offered to give us a free intensive day workshop for Rhino Software: http://www.rhino3d.com/tutorials  
+**Rhino Workshop (August 8 2015)**
+A gentleman we met at the ASEE conference in Seattle was very interested ih the work of our team and our cars. He has offered to give us a free intensive day workshop for Rhino Software: http://www.rhino3d.com/tutorials  
 Invitations to join our workshop was extended to not only our members but members of other design teams as well. Thank you for a very enlightening workshop Dave Weidkamp and Rhino software! 
 
-** <a href="http://www.asee.org/conferences-and-events/conferences/annual-conference/2016#sthash.Wl7TYKql.dpuf" target="_blank"> American Society of Engineering Education Annual Conference </a> (June 14 - 16 2015)**
+**<a href="http://www.asee.org/conferences-and-events/conferences/annual-conference/2016#sthash.Wl7TYKql.dpuf" target="_blank"> American Society of Engineering Education Annual Conference </a> (June 14 - 16 2015)**
 The ASEE Annual Conference and Exposition is the only conference dedicated to all disciplines of engineering education.  It is committed to fostering the exchange of ideas, enhancing teaching methods and curriculum, and providing prime networking opportunities for engineering and technology education stakeholders such as deans, faculty members and industry and government representatives. We were honored to be invited to represent the Shell EcoMarathons and showcase our Urban Concept car during this enlightening conference.
 
 **Shell Eco Marathon Competition (April 8 - 13 2015)**
 UBC Supermileage's Zoticus wins second place in the Urban Concept gasoline division at SEMA 2015 with 324mpg! The Mark X prototype vehicle performed excellently on track, achieving 600-700 mpg, but did not finish a full run. These were excellent mileage's for this new track in Detroit. We were also placed at the front of the group photo to represent Canada! Great work team, and we are proud to have completed two fantastic cars from scratch this year
 
-** UBC Team Celebration Dinner (April 2 2015) **
+**UBC Team Celebration Dinner (April 2 2015)**
 This event was a celebration our accomplishments this year and of everyone's commitment to the team!
 
-** UBC Supermileage Unveiling Day (February 26 2015) **
+**UBC Supermileage Unveiling Day (February 26 2015)**
 We're competing with Universities from across Canada to put on the best Supermileage Unveiling Event of them all to win coverage to send our car to Detroit. Students score some free pizza or cookies and learn about our pursuit for efficiency. 
 
-** Vancouver Island University Tour @ Rusty Hut (February 23rd 2015) **
+**Vancouver Island University Tour @ Rusty Hut (February 23rd 2015)**
 Students from Vancouver Island University toured Rusty Hut to learn about what Supermileage does. We gave a short presentation on what we do and the drive for sustainbility that motivates the team
 
-**Zaber Tour (January 14 2015) **
+**Zaber Tour (January 14 2015)**
 Our general members were granted a tour of Zaber Technologies, a local Vancouver company that fabricates linear actuators. 
 
 **Engineering Open House Student Involvement (November 29 2014)**
@@ -48,7 +48,7 @@ Our cars have suffered serious damages during its return from our last competiti
 Entry tickets will be sold at a charge of $5 for one ticket and $10 for 3. 
 The draw date will be set for October 10th, 2014. 
 
-** Imagine Day 2014 (September 7th 2014) **
+**Imagine Day 2014 (September 7th 2014)**
 The team held a booth on UBC’s Imagine day to present the work of Supermileage to our community and enlist interested students to join our endeavors. 
 
 **<a href="http://www.shell.com/global/environment-society/ecomarathon/events/americas.html" target="_blank">Shell Eco-Marathon 2014</a> (April 25 2014)**
