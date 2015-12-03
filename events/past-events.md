@@ -9,6 +9,9 @@ Prospective engineering students from local high schools dropped by the UBC Rust
 **Zaber Tour (November 18 2015)**
 Our general members were granted a tour of Zaber Technologies, a local Vancouver company that fabricates linear actuators. 
 
+**SAE BC Seminar on 'Defects in Aircraft Design and Materials' (November 2 2015)**
+How can engineers prevent or at least minimize catastrophic aircraft failure incidents, thus improving aircraft safety? What lessons can we learn from historical mishaps so that they might be avoided in the future? Answers to these questions were explored by Larry Reniak, in the course of exploring 12 case studies, involving both civil and military famous aircraft programs. The UBC Supermileage was grateful to be granted the 1st place award for the SAE BC Student Team fund during the presentation. Thank you SAE! 
+
 **Track Day (September 26 2015)** 
 We are excited to welcome our new cohort of Supermileagers who will be joining us on our pursuit for efficiency this year. Today we took our two returning vehicles to a school lot for some runs. 
 Two running cars and some rare Vancouver sunshine- what a fine way to kick off the year! Thank you University Hill High School for allowing us to use their lot.  
