@@ -3,8 +3,20 @@ title: Past Events
 author: Supermileage
 layout: default
 ---
+**ACEC Industry Event (Jan 28,2016)** 
+The theme of the annual Vancouver conference for the Association of Consulting Engineering Companies (ACEC) was Transportation and Technology. One of the tour stops for the 50-60 industry professionals who attended was the EDC to learn about Supermileage and other student design teams. 
+
+**EngPhys Info Event (Jan 24, 2016)**
+Prospective engineering physics students from high school and first year gathered in forestry to learn more about engineering at UBC and student teams.  We explained what Supermileage is all about as well as how joining a student team can enrich your university experience. 
+
+**UBC Mechanical Engineering Advisory Council Meeting (Jan 21, 2016)**
+Our captain was invited to join the evening's panel of industry professional and campus engineering head to present our the vision of team, our goals and our industry relations. We were honored to be given this opportunity to share our project and happy to be met by so much support. 
+
+**Tesla Motors Tour (Jan 21, 2016)** 
+The UBC Supermileage team was graced by a visit from Tesla Motors during their trip to Vancouver. Tesla's team was able to come by workspace and take a close and personal look at our two cars in the making as well as ask some technical questions on our fuel saving technologies. We hope you enjoyed your visit Tesla! 
+
 **Engineering Open House (November 28 2015)** 
-Prospective engineering students from local high schools dropped by the UBC Rusty Hut to learn what the campus has to offer in terms of design teams. We were able to show our two fuel-efficient cars to over 10 tour groups (with students and parents) and share the story behind our team. 
+Prospective engineering students from local high schools dropped by the UBC Rusty Hut to learn what the campus has to offer in terms of design teams. We were able to show our two fuel-efficient cars to over 10 tour groups (with students and parents) and share the story behind our team, hopefully inspiring a new generation of engineers.
 
 **Zaber Tour (November 18 2015)**
 Our general members were granted a tour of Zaber Technologies, a local Vancouver company that fabricates linear actuators. 
